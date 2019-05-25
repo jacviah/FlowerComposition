@@ -9,6 +9,6 @@ public class FlowerComposition {
 	private ArrayList<Mechanic> mechanics;
 	private ArrayList<Stem> stems;
 	private ArrayList<Accessory> accessories;	
-	Container container;
-	Base base;
+	private Container container;
+	private Base base;
 }
